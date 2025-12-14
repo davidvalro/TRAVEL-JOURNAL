@@ -55,6 +55,7 @@ Asegúrate de estar en el directorio raíz del proyecto (`TRAVEL JOURNAL`) y eje
 npm install
 npm start
 # o npm run dev
+````
 
 ### 👨‍💻 Nota del Desarrollador
 
