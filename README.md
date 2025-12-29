@@ -1,8 +1,8 @@
-# ✈️ TRAVEL JOURNAL
+# TRAVEL JOURNAL
 
-## 🗺️ Diario Interactivo de Viajes (React)
+## Diario Interactivo de Viajes (React)
 
-### 📝 Descripción del Proyecto
+### Descripción del Proyecto
 
 **TRAVEL JOURNAL** es una aplicación web dinámica, construida íntegramente con **React**, que funciona como un diario de viaje interactivo. El objetivo principal de este proyecto es simular el registro, la visualización y la organización de entradas de destinos visitados utilizando la inyección de datos dinámicos.
 
@@ -13,7 +13,7 @@ Este proyecto fue desarrollado como una práctica intensiva para fortalecer habi
 
 ---
 
-### 🌟 Estructura del Proyecto y Componentes Clave
+### Estructura del Proyecto y Componentes Clave
 
 El diseño del diario se basa en un conjunto de componentes modulares que consumen la data del archivo `data.js`.
 
@@ -32,7 +32,7 @@ Cada entrada de viaje (`Card`) muestra información esencial:
 
 ---
 
-### 💻 Stack Tecnológico
+### Stack Tecnológico
 
 El proyecto fue inicializado y desarrollado utilizando el siguiente stack tecnológico:
 
@@ -43,7 +43,7 @@ El proyecto fue inicializado y desarrollado utilizando el siguiente stack tecnol
 
 ---
 
-### 🚀 Getting Started
+### Getting Started
 
 Sigue estos sencillos pasos para instalar las dependencias y ejecutar el proyecto en tu máquina local.
 
@@ -57,6 +57,6 @@ npm start
 # o npm run dev
 ````
 
-### 👨‍💻 Nota del Desarrollador
+### Nota del Desarrollador
 
 Este ejercicio es fundamental para comprender el concepto de **Diseño Orientado a Componentes** en React. Al separar la lógica de presentación en el componente `Card` y utilizar la función `map()` en el componente `App`, se garantiza que la interfaz sea **escalable** y **fácil de mantener** al añadir nuevas entradas de viaje, demostrando un uso eficaz del **patrón de reutilización de componentes**.
